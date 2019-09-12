@@ -18,3 +18,21 @@ div {
 .perspective-questions {
   /* Your code here! */
 }
+    <style type= "text/css">
+      body{
+      background: #00b3e6;
+      }
+      div { 
+      width: 700px;
+      margin: auto;
+      font-family: Helvetica Neue;
+      background: white;
+      padding: 30px;
+      }
+      h1 {
+      font-size: 22px;
+      }
+      ul{
+        font-size: italic;
+        }
+    </style>
